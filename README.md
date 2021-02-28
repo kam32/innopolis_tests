@@ -1,4 +1,5 @@
 # Innopolis tests
+Сами тесты находятся по ссылке https://github.com/kam32/innopolis_tests/blob/master/src/test/java/tests/UiTests.java
 ## Использованные инструменты:
 * Java
 * Gradle
